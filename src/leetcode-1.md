@@ -44,7 +44,7 @@ public:
 
 空间复杂度: O(1).
 
-##解法2
+## 解法2
 
 ```
 class Solution
