@@ -56,4 +56,24 @@
 
 [leetcode-algorithms-28 Implement strStr()](./src/leetcode-28.md)
 
+[leetcode-algorithms-29 Divide Two Integers](./src/leetcode-29.md)
+
+[leetcode-algorithms-30 Substring with Concatenation of All Words](./src/leetcode-30.md)
+
+[leetcode-algorithms-32 Longest Valid Parentheses](./src/leetcode-32.md)
+
+[leetcode-algorithms-33 Search in Rotated Sorted Array](./src/leetcode-33.md)
+
+[leetcode-algorithms-34 Find First and Last Position of Element in Sorted Array](./src/leetcode-34.md)
+
+[leetcode-algorithms-35 Search Insert Position](./src/leetcode-35.md)
+
+[leetcode-algorithms-36 Valid Sudoku](./src/leetcode-36.md)
+
+[leetcode-algorithms-92 Reverse Linked List II](./src/leetcode-92.md)
+
+[leetcode-algorithms-109 Convert Sorted List to Binary Search Tree](./src/leetcode-109.md)
+
+[leetcode-algorithms-141 Linked List Cycle](./src/leetcode-141.md)
+
 [leetcode-algorithms-142 Linked List Cycle II](./src/leetcode-142.md)
