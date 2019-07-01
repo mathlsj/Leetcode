@@ -79,3 +79,5 @@
 [leetcode-algorithms-142 Linked List Cycle II](./src/leetcode-142.md)
 
 [leetcode-algorithms-143 Reorder List](./src/leetcode-143.md)
+
+[leetcode-algorithms-147 Insertion Sort List](./src/leetcode-147.md)
