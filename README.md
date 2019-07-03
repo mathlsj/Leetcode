@@ -81,3 +81,5 @@
 [leetcode-algorithms-143 Reorder List](./src/leetcode-143.md)
 
 [leetcode-algorithms-147 Insertion Sort List](./src/leetcode-147.md)
+
+[leetcode-algorithms-148 Sort List](./src/leetcode-147.md)
