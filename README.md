@@ -83,3 +83,5 @@
 [leetcode-algorithms-147 Insertion Sort List](./src/leetcode-147.md)
 
 [leetcode-algorithms-148 Sort List](./src/leetcode-148.md)
+
+[leetcode-algorithms-160 Intersection of Two Linked Lists](./src/leetcode-160.md)
