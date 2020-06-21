@@ -97,3 +97,5 @@
 [leetcode-algorithms-430 Flatten a Multilevel Doubly Linked List](./src/leetcode-430.md)
 
 [leetcode-algorithms-445 Add Two Numbers II](./src/leetcode-445.md)
+
+[leetcode-algorithms-707 Design Linked List](./src/leetcode-707.md)
